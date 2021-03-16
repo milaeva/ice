@@ -42,3 +42,8 @@ a {
 .section {
     margin: 0 auto;
 }
+a:focus,
+button:focus,
+article:focus{
+    outline: none;
+}
